@@ -7,3 +7,7 @@ post > excecute the second job (run the script) only  of stable
 
 second job:
 script execution
+
+plugins needed:
+jenkins job dsl
+postBuildScripts
