@@ -1,0 +1,9 @@
+first job:
+
+wget https://www.dropbox.com/s/cjbug9ddqrng39m/well-done.sh?dl=0 -O /tmp/well-done.sh
+chmod u+x /tmp/well-done.sh
+
+post > excecute the second job (run the script) only  of stable
+
+second job:
+script execution
